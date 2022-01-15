@@ -1,0 +1,26 @@
+* {
+    padding: auto;
+    margin: auto;
+    width: 970px;
+}
+
+body {
+    background-color: #778899;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecalho {
+    padding: 30px;
+    color: #FFFFFF;
+}
+
+.cabecalho h1 {
+
+}
+
+.div-pai {
+    background-color: #FFFFFF;
+    padding: 30px;
+    margin: auto;
+    border-radius: 8px;
+}
